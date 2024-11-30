@@ -64,6 +64,7 @@ The transfer learning approach utilizes the **ResNet50** model:
 
 1.  **Pre-trained Backbone**:
     *   ResNet50 pre-trained on ImageNet as a feature extractor.
+    ![Alt text](architecture.png.)
 2.  **Fine-tuning**:
     *   Added custom fully connected layers for the classification task.
     *   Trained on the skin cancer dataset with data augmentation.
