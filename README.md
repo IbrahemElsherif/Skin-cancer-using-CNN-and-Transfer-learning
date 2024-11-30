@@ -89,7 +89,7 @@ Dataset
 
 * * *
 
-The dataset includes labeled images of skin lesions categorized as **Malignant** or **Benign**. Images were preprocessed by resizing, normalization, and augmentation to enhance model generalization.
+The (dataset).[https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign] includes labeled images of skin lesions categorized as **Malignant** or **Benign**. Images were preprocessed by resizing, normalization, and augmentation to enhance model generalization.
 
 Results
 =======
