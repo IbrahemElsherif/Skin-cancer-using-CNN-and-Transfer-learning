@@ -1,7 +1,3 @@
-Here's the formatted README for your **Skin Cancer Detection using CNN and Transfer Learning** project:
-
-* * *
-
 Skin Cancer Detection
 =====================
 
